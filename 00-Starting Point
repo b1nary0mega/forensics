@@ -1,0 +1,7 @@
+Starting Point
+* Always work from most volatile to least * 
+
+01 - RAM
+02 - Ports
+03 - Processes
+04 - Hard Disk(s)
