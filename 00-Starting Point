@@ -1,7 +1,2 @@
-Starting Point
-* Always work from most volatile to least * 
-
-01 - RAM
-02 - Ports
-03 - Processes
-04 - Hard Disk(s)
+1. Copy the data_acquisition.ps1 file and pstree.ps1 files to evidence collection disk
+2. Run data_acquisition.ps1 file to start collection
